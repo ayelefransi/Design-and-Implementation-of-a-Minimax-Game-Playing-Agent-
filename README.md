@@ -46,15 +46,6 @@ This project implements an **unbeatable Tic-Tac-Toe AI agent** using the **Minim
 
 ---
 
-##  How to Run
-
-Navigate to the project directory in your terminal/command prompt and execute:
-
-```bash
-Adversarial Search – Minimax Algorithm.ipynb
-```
----
-
 ##  How to Play
 
 The game runs entirely in your terminal/console. You play as **'O'** against the AI **'X'**.
