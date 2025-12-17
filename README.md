@@ -74,7 +74,7 @@ project-folder/
 │
 ├── Adversarial Search – Minimax Algorithm.ipynb          # Main source code (TicTacToeGame & MinimaxAgent classes)
 ├── README.md             # This documentation file
-└── Report.docx           # Technical report detailing design and algorithms
+└── Design and Implementation of a Minimax.pdf          # Technical report detailing design and algorithms
 ```
 
 ### Code Components
