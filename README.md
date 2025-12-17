@@ -14,7 +14,7 @@ This project implements an **unbeatable Tic-Tac-Toe AI agent** using the **Minim
 
 ##  Features
 
-- ** Unbeatable Performance:** Guaranteed win or draw in every game
+-  Unbeatable Performance: Guaranteed win or draw in every game
 - ** Optimized Search:** Alpha-Beta Pruning eliminates irrelevant branches, improving decision speed
 - ** Intelligent Heuristics:** Uses `10 - depth` scoring to find fastest victory paths
 - ** Randomized Optimal Moves:** Varied gameplay when multiple equally perfect moves exist
