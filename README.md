@@ -37,13 +37,12 @@ This project implements an **unbeatable Tic-Tac-Toe AI agent** using the **Minim
    ```bash
    python --version
    ```
-   *If using Python 2, you'll need Python 3.6+*
 
 2. **Download Project Files:**
    - Download or extract the project folder to your desired directory
 
 3. **File Structure:**
-   Ensure `tictactoe.py` is in the project root directory
+   Ensure `Adversarial Search – Minimax Algorithm.ipynb` is in the project root directory
 
 ---
 
@@ -54,9 +53,6 @@ Navigate to the project directory in your terminal/command prompt and execute:
 ```bash
 Adversarial Search – Minimax Algorithm.ipynb
 ```
-
-*Note: If your system defaults to Python 2, use `python3 tictactoe.py` instead*
-
 ---
 
 ##  How to Play
